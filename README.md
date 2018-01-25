@@ -2,8 +2,8 @@
 A discord bot that helps automate the process of giving away steam keys 
 
 requires:
-  discord library
-  python 3.5+
+  -discord library
+  -python 3.5+
 
 Have txt file named 'keys.txt' and put each of your steam keys in each line
 
